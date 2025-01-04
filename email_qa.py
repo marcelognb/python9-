@@ -4,7 +4,7 @@ import streamlit as st
 
 #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-#loader = CSVLoader(file_path='hinode_faq.csv') #, encoding="utf-8"
+#loader = CSVLoader(file_path='knowledge_base.csv') #, encoding="utf-8"
 #documents = loader.load()
 
 
